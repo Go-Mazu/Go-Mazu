@@ -1,6 +1,6 @@
 👋 Hi! I’m Govinda
 
-👀 I’m interested in software development, machine learning, and data analytics
+👀 I’m interested in software development, machine learning, data analytics, and new challenges
 
 🌱 I’m currently learning new ways to visualize data and create deep learning models 
 
