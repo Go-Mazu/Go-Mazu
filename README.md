@@ -2,7 +2,7 @@
 
 👀 I’m interested in software development, machine learning, data analytics, and new challenges
 
-🌱 I’m currently learning new ways to visualize data and create deep learning models 
+🌱 I’m currently learning new ways to visualize data, create deep learning models, and develop software to industry standards
 
 <!---
 Go-Mazu/Go-Mazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
