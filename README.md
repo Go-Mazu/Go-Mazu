@@ -1,4 +1,4 @@
-👋 Hi! I’m Govinda
+👋 Hi! I’m Go
 
 👀 I’m interested in software development, machine learning, data analytics, and new challenges
 
